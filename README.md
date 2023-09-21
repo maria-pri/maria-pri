@@ -1,10 +1,23 @@
-# Olá <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
-<img src="https://media0.giphy.com/media/6ME5Kp3hUzPh1pCWjh/giphy.gif?cid=ecf05e47m0b8xefk281jp4cbwzpojo8ylyidslojnxeftins&rid=giphy.gif&ct=s" width="90" height="90" frameBorder="0"></img><p><a href="https://giphy.com/stickers/cat-kitty-sanrio-6ME5Kp3hUzPh1pCWjh"></a></p>
+<h1 align="center">Hello there ♡ </h1> 
 
+
+<img align="right" alt="me" width="150" height="150" src="https://media0.giphy.com/media/6ME5Kp3hUzPh1pCWjh/giphy.gif?cid=ecf05e47m0b8xefk281jp4cbwzpojo8ylyidslojnxeftins&rid=giphy.gif&ct=s" width="90" height="90" frameBorder="0"></img><p><a href="https://giphy.com/stickers/cat-kitty-sanrio-6ME5Kp3hUzPh1pCWjh"></a></p>
+ 
+Oi, sou a Maria Priscila, uma apaixonada por programação. Sou movida por desafios e tenho um compromisso inabalável com a excelência. Meu objetivo é me tornar uma desenvolvedora Full Stack 🐱‍💻, dominando tanto o front-end quanto o back-end, e também explorar o empolgante mundo do desenvolvimento mobile.
+
+Acredito na busca contínua pelo conhecimento e em acompanhar as tendências mais recentes na programação. Meu objetivo é entregar soluções de alta qualidade e agregar valor a cada projeto.
+
+Tenho uma paixão especial por criar aplicativos intuitivos e visualmente atraentes, proporcionando uma experiência perfeita aos usuários. Adoro trabalhar em ambientes colaborativos, onde posso compartilhar minhas ideias e aprender com colegas talentosos.
+
+Além da programação, sou fascinada pela resolução de problemas, tenho um pensamento crítico aguçado e uma atenção meticulosa aos detalhes. Isso me capacita a enfrentar desafios complexos e encontrar soluções eficazes.
+
+Estou entusiasmada com a oportunidade de trabalhar em projetos inovadores e contribuir para o mundo em constante evolução da tecnologia. Vamos nos conectar e criar algo incrível juntos!
+
+Sinta-se à vontade para entrar em contato comigo para colaborações ou discussões relacionadas à programação. 🚀<br/>
+
+-----
 
 ### <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
-
-
 
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/csharp.png"/></a></code>
 &nbsp; 
@@ -28,11 +41,12 @@
 
  </div>
 
- <hr>
-<h3 align="center">Profile Stats</h3>
+-----
+ 
+### <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 <div align="center">
-   <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=mariiapri&show_icons=true&hide_border=true&theme=tokyonight">
-   <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariiapri&theme=tokyonight&hide_border=true">
+   <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=maria-pri&show_icons=true&hide_border=true&theme=tokyonight">
+   <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-pri&theme=tokyonight&hide_border=true">
 </div>
 <br>
 <h3 align="center">Projetos Pessoais</h3>
