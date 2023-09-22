@@ -15,7 +15,7 @@ Estou entusiasmada com a oportunidade de trabalhar em projetos inovadores e cont
 Sinta-se à vontade para entrar em contato comigo para colaborações ou discussões relacionadas à programação. 🚀<br/>
 
 -----
-<div>
+
  
 ### <img height="20" alt="GIF" src="https://github.com/maria-pri/maria-pri/assets/145577195/86389c7a-1aa8-4067-a234-5785f0494dc0"/>&nbsp;Linguagens e ferramentas:
 
@@ -31,7 +31,6 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png"/></a></code>
 &nbsp;
-</div>
 
 
 
