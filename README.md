@@ -1,7 +1,6 @@
-<h1 align="center">Hello there ♡ </h1> 
+<h1 align="center">Olá ♡ </h1> 
 
-
-<img align="right" alt="me" width="150" height="150" src="https://media0.giphy.com/media/6ME5Kp3hUzPh1pCWjh/giphy.gif?cid=ecf05e47m0b8xefk281jp4cbwzpojo8ylyidslojnxeftins&rid=giphy.gif&ct=s" width="90" height="90" frameBorder="0"></img><p><a href="https://giphy.com/stickers/cat-kitty-sanrio-6ME5Kp3hUzPh1pCWjh"></a></p>
+<img align="right" alt="me" width="150" height="150" src="https://media0.giphy.com/media/6ME5Kp3hUzPh1pCWjh/giphy.gif?cid=ecf05e47m0b8xefk281jp4cbwzpojo8ylyidslojnxeftins&rid=giphy.gif&ct=s" width="90" height="90" frameBorder="0">
  
 Oi, sou a Maria Priscila, uma apaixonada por programação. Sou movida por desafios e tenho um compromisso inabalável com a excelência. Meu objetivo é me tornar uma desenvolvedora Full Stack 🐱‍💻, dominando tanto o front-end quanto o back-end, e também explorar o empolgante mundo do desenvolvimento mobile.
 
@@ -16,8 +15,9 @@ Estou entusiasmada com a oportunidade de trabalhar em projetos inovadores e cont
 Sinta-se à vontade para entrar em contato comigo para colaborações ou discussões relacionadas à programação. 🚀<br/>
 
 -----
-
-### <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<div>
+ 
+### <img height="20" alt="GIF" src="https://github.com/maria-pri/maria-pri/assets/145577195/86389c7a-1aa8-4067-a234-5785f0494dc0"/>&nbsp;Linguagens e ferramentas:
 
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/csharp.png"/></a></code>
 &nbsp; 
@@ -31,6 +31,8 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png"/></a></code>
 &nbsp;
+</div>
+
 
 
 
@@ -43,7 +45,7 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
 
 -----
  
-### <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+### <img height="20" alt="GIF" src="https://github.com/maria-pri/maria-pri/assets/145577195/8f125c06-bbfe-4b8b-b3f0-e7d6ae84d0b1"/>GitHub Stats:
 <div align="center">
    <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=maria-pri&show_icons=true&hide_border=true&theme=tokyonight">
    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-pri&theme=tokyonight&hide_border=true">
