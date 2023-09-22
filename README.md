@@ -16,6 +16,8 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
 
 -----
 
+<img src="https://github.com/maria-pri/maria-pri/assets/145577195/4fa9c682-6fa4-4729-9397-76ef60a4f18d" alt="me" width="150" height="150" align="right">
+
  
 ### <img height="20" alt="GIF" src="https://github.com/maria-pri/maria-pri/assets/145577195/86389c7a-1aa8-4067-a234-5785f0494dc0"/>&nbsp;Linguagens e ferramentas:
 
@@ -33,13 +35,9 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
 &nbsp;
 
 
-
-
- <div align="center">
-   <h3>Contato:</h3>
-  <a href="mailto:@gmail"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div align="right">
+  <a href="mailto:@gmail"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br/>
   <a href="https://www.linkedin.com/in/nomeusuario/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
  </div>
 
 -----
