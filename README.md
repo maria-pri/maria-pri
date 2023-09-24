@@ -2,7 +2,7 @@
 
 <img align="right" alt="me" width="150" height="150" src="https://media0.giphy.com/media/6ME5Kp3hUzPh1pCWjh/giphy.gif?cid=ecf05e47m0b8xefk281jp4cbwzpojo8ylyidslojnxeftins&rid=giphy.gif&ct=s" width="90" height="90" frameBorder="0">
  
-Oi, sou a Maria Priscila, uma apaixonada por programação. Sou movida por desafios e tenho um compromisso inabalável com a excelência. Meu objetivo é me tornar uma desenvolvedora Full Stack 🐱‍💻, dominando tanto o front-end quanto o back-end, e também explorar o empolgante mundo do desenvolvimento mobile.
+Oi, sou a Maria Priscila, uma apaixonada por programação. Sou movida por desafios e tenho um compromisso inabalável com a excelência. Meu objetivo é me tornar uma desenvolvedora Full Stack, dominando tanto o front-end quanto o back-end, e também explorar o empolgante mundo do desenvolvimento mobile.
 
 Acredito na busca contínua pelo conhecimento e em acompanhar as tendências mais recentes na programação. Meu objetivo é entregar soluções de alta qualidade e agregar valor a cada projeto.
 
@@ -36,8 +36,8 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
 
 
  <div align="right">
-  <a href="mailto:@gmail"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br/>
-  <a href="https://www.linkedin.com/in/nomeusuario/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:mariapriscila.sp97@gmail"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br/>
+  <a href="https://www.linkedin.com/in/maria-pri/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
 -----
