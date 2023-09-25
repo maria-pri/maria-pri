@@ -51,18 +51,18 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
 <h3 align="center">Projetos Pessoais</h3>
 
 <p align="center">
-  <a href="https://github.com/MariiaPri/ProjetoGit.github.io">
+  <a href="https://github.com/maria-pri/ToDoList.github.io">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mariiapri&repo=projetogit&theme=tokyonight&hide_border=true">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=maria-pri&repo=todolist&theme=tokyonight&hide_border=true">
     </img>
   </a>
-    <a href="https://github.com/MariiaPri/ProjetoGit">
+    <a href="https://github.com/maria-pri/CalculadoraSimples">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mariiapri&repo=projetogit&theme=tokyonight&hide_border=true">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=maria-pri&repo=calculadorasimples&theme=tokyonight&hide_border=true">
     </img>
   </a>
 </p>
