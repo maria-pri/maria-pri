@@ -47,25 +47,8 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
    <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=maria-pri&show_icons=true&hide_border=true&theme=tokyonight">
    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-pri&theme=tokyonight&hide_border=true">
 </div>
-<br>
-<h3 align="center">Projetos Pessoais</h3>
 
-<p align="center">
-  <a href="https://github.com/maria-pri/ToDoList.github.io">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=maria-pri&repo=todolist&theme=tokyonight&hide_border=true">
-    </img>
-  </a>
-    <a href="https://github.com/maria-pri/CalculadoraSimples">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=maria-pri&repo=calculadorasimples&theme=tokyonight&hide_border=true">
-    </img>
-  </a>
-</p>
+
 
 
  
