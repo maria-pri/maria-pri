@@ -14,8 +14,7 @@ Estou entusiasmada com a oportunidade de trabalhar em projetos inovadores e cont
 
 Sinta-se à vontade para entrar em contato comigo para colaborações ou discussões relacionadas à programação. 🚀<br/>
 
------
-
+---
 <img src="https://github.com/maria-pri/maria-pri/assets/145577195/4fa9c682-6fa4-4729-9397-76ef60a4f18d" alt="me" width="150" height="150" align="right">
 
  
@@ -29,10 +28,12 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png"/></a></code>
 &nbsp; 
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insomnia.png"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png"/></a></code>
 &nbsp;
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
 
  <div align="right">
@@ -40,8 +41,7 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
   <a href="https://www.linkedin.com/in/maria-pri/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
------
- 
+--- 
 ### <img height="20" alt="GIF" src="https://github.com/maria-pri/maria-pri/assets/145577195/8f125c06-bbfe-4b8b-b3f0-e7d6ae84d0b1"/>GitHub Stats:
 <div align="center">
    <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=maria-pri&show_icons=true&hide_border=true&theme=tokyonight">
@@ -66,3 +66,7 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
     </img>
   </a>
 </p>
+
+
+ 
+
