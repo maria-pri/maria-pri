@@ -10,9 +10,9 @@ Tenho uma paixão especial por criar aplicativos intuitivos e visualmente atraen
 
 Além da programação, sou fascinada pela resolução de problemas, tenho um pensamento crítico aguçado e uma atenção meticulosa aos detalhes. Isso me capacita a enfrentar desafios complexos e encontrar soluções eficazes.
 
-Estou entusiasmada com a oportunidade de trabalhar em projetos inovadores e contribuir para o mundo em constante evolução da tecnologia. Vamos nos conectar e criar algo incrível juntos!
+Estou entusiasmada com a oportunidade de trabalhar em projetos inovadores e contribuir para o mundo em constante evolução da tecnologia. Vamos nos conectar e criar algo incrível juntos!  <img width="22px" src="https://media1.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif" alt="gif de um foguete">
 
-Sinta-se à vontade para entrar em contato comigo para colaborações ou discussões relacionadas à programação. 🚀<br/>
+Sinta-se à vontade para entrar em contato comigo para colaborações ou discussões relacionadas à programação. <br/>
 
 ---
 <img src="https://github.com/maria-pri/maria-pri/assets/145577195/4fa9c682-6fa4-4729-9397-76ef60a4f18d" alt="me" width="150" height="150" align="right">
