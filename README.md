@@ -1,6 +1,4 @@
 <h1 align="center">Olá ♡ </h1> 
-
-<img align="right" alt="me" width="150" height="150" src="https://media0.giphy.com/media/6ME5Kp3hUzPh1pCWjh/giphy.gif?cid=ecf05e47m0b8xefk281jp4cbwzpojo8ylyidslojnxeftins&rid=giphy.gif&ct=s" width="90" height="90" frameBorder="0">
  
 Oi, sou a Maria Priscila, uma apaixonada por programação. Sou movida por desafios e tenho um compromisso inabalável com a excelência. Meu objetivo é me tornar uma desenvolvedora Full Stack, dominando tanto o front-end quanto o back-end, e também explorar o empolgante mundo do desenvolvimento mobile.
 
