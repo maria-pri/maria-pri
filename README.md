@@ -1,4 +1,4 @@
-<h1 align="center">Olá ♡ </h1> 
+<h1 align="center">Olá </h1> 
  
 Oi, sou a Maria Priscila, uma apaixonada por programação. Sou movida por desafios e tenho um compromisso inabalável com a excelência. Meu objetivo é me tornar uma desenvolvedora Full Stack, dominando tanto o front-end quanto o back-end, e também explorar o empolgante mundo do desenvolvimento mobile.
 
