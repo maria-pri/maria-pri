@@ -40,14 +40,6 @@ Sinta-se à vontade para entrar em contato comigo para colaborações ou discuss
  </div>
 
 --- 
-### <img height="20" alt="GIF" src="https://github.com/maria-pri/maria-pri/assets/145577195/8f125c06-bbfe-4b8b-b3f0-e7d6ae84d0b1"/>GitHub Stats:
-<div align="center">
-   <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=maria-pri&show_icons=true&hide_border=true&theme=tokyonight">
-   <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-pri&theme=tokyonight&hide_border=true">
-</div>
-
-
-
 
  
 
